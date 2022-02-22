@@ -1,0 +1,12 @@
+table,th,td{
+    border: 2px solid rgb(69, 25, 141);
+    border-collapse:collapse;
+}
+th{
+    background-color: rgb(31, 172, 62);
+    color:white;
+}
+td{
+    text-align: center;
+}
+
